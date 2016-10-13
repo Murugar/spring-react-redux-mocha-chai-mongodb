@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pugnascotia/spring-react-boilerplate.git"
+    "url": "git+https://https://github.com/Murugar/spring-react-redux-mocha-mongodb.git"
   },
   "author": "Rory Hunter",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pugnascotia/spring-react-boilerplate/issues"
+    "url": "https://github.com/Murugar/spring-react-redux-mocha-mongodb.git/issues"
   },
-  "homepage": "https://github.com/pugnascotia/spring-react-boilerplate#readme",
+  "homepage": "https://github.com/Murugar/spring-react-redux-mocha-mongodb#readme",
   "dependencies": {
     "axios": "^0.14.0",
     "axios-mock-adapter": "^1.6.1", 
