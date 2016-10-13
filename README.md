@@ -1,1 +1,1 @@
-# spring-react-redux-mocha-mongodb
+# spring-react-redux-mocha-chai-mongodb
